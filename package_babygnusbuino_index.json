@@ -12,11 +12,11 @@
 							{
 				"name" : "Babygnusbuino",
 				"architecture" : "avr",
-				"version" : "0.0.1",
+				"version" : "0.0.2",
 				"category" : "Babygnusbuino",
-				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.1.tar.gz",
-				"archiveFileName" : "babygnusbuino-0.0.1.tar.gz",
-				"checksum" : "SHA-256:72490132a50b123eebd03ca96b9f4b38d3f43a5e80b6f8c6c5adb0e330747489",
+				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.2.tar.gz",
+				"archiveFileName" : "babygnusbuino-0.0.2.tar.gz",
+				"checksum" : "SHA-256:867ef4210ef5602eb1d27f2c244031c5e306a559d5f563ad8474d68a6c3b8e53",
 				"size" : "",
 				"help" : {
 					"online" : "https://github.com/ATtinyTeenageRiot/Babygnusbuino2"
