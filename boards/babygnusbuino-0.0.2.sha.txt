@@ -1,0 +1,6 @@
+commit 242ca5dd5d8fcc9c080af599bde7e16af644e71e
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Sun Dec 20 18:26:14 2015 +0700
+
+    update latest midi library
+17e873b9c34070ab766576d50ab0521b39bcfda8a586e609c4580e96beadcc17
