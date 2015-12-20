@@ -71,6 +71,37 @@
 						"version" : "6.0.1-arduino5"
 					}
 				]
+			},			{
+				"name" : "Babygnusbuino",
+				"architecture" : "avr",
+				"version" : "0.0.3",
+				"category" : "Babygnusbuino",
+				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.3.tar.gz",
+				"archiveFileName" : "babygnusbuino-0.0.3.tar.gz",
+				"checksum" : "SHA-256:ff6c7b13944345e527d7f0e832efcb7c5509e3d1904526582f5a0dfc5bb7a3bc",
+				"size" : "",
+				"help" : {
+					"online" : "https://github.com/ATtinyTeenageRiot/Babygnusbuino2"
+				},
+				"boards" : [
+										
+					{
+						"name" : "Babygnusbuino2"
+					}
+				],
+				"toolsDependencies" : [
+										
+					{
+						"packager" : "arduino",
+						"name" : "avr-gcc",
+						"version" : "4.8.1-arduino5"
+					},					
+					{
+						"packager" : "arduino",
+						"name" : "avrdude",
+						"version" : "6.0.1-arduino5"
+					}
+				]
 			}
 			],
 			"tools" : []
