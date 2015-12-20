@@ -1,6 +1,6 @@
-commit 242ca5dd5d8fcc9c080af599bde7e16af644e71e
+commit 32e7067b721b49ff5f110bc95415829c905a101b
 Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
-Date:   Sun Dec 20 18:26:14 2015 +0700
+Date:   Sun Dec 20 19:37:01 2015 +0700
 
-    update latest midi library
-17e873b9c34070ab766576d50ab0521b39bcfda8a586e609c4580e96beadcc17
+    put back bootloader
+00796a6da181c7489ef46fb7690d76a730646f47844cbe7c2802ddd6f0f48251
