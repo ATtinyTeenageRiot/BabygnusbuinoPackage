@@ -1,0 +1,6 @@
+commit 586d929f94796d22449539f1052756b9185f9023
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Mon Dec 21 13:00:47 2015 +0700
+
+    avrdude timeout counter
+5bb2ffff2e9a83eaef8264f415df8da7664518cd6aa81e09cebeebec8c08ed93

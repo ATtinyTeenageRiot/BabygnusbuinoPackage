@@ -93,6 +93,27 @@
 				"toolsDependencies" : [
 					
 				]
+			},			{
+				"name" : "Babygnusbuino",
+				"architecture" : "avr",
+				"version" : "0.0.5",
+				"category" : "contributed",
+				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.5.tar.gz",
+				"archiveFileName" : "babygnusbuino-0.0.5.tar.gz",
+				"checksum" : "SHA-256:5bb2ffff2e9a83eaef8264f415df8da7664518cd6aa81e09cebeebec8c08ed93",
+				"size" : "",
+				"help" : {
+					"online" : "https://github.com/ATtinyTeenageRiot/Babygnusbuino2"
+				},
+				"boards" : [
+										
+					{
+						"name" : "Babygnusbuino2"
+					}
+				],
+				"toolsDependencies" : [
+					
+				]
 			}
 			],
 			"tools" : []
