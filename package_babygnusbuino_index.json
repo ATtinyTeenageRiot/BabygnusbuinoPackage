@@ -13,7 +13,7 @@
 				"name" : "Babygnusbuino",
 				"architecture" : "avr",
 				"version" : "0.0.1",
-				"category" : "Babygnusbuino",
+				"category" : "contributed",
 				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.1.tar.gz",
 				"archiveFileName" : "babygnusbuino-0.0.1.tar.gz",
 				"checksum" : "SHA-256:ce042fbff592d8b3a3fc22f2ecbd56703b52d7bbe753f29a29007cafd320df76",
@@ -34,7 +34,7 @@
 				"name" : "Babygnusbuino",
 				"architecture" : "avr",
 				"version" : "0.0.2",
-				"category" : "Babygnusbuino",
+				"category" : "contributed",
 				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.2.tar.gz",
 				"archiveFileName" : "babygnusbuino-0.0.2.tar.gz",
 				"checksum" : "SHA-256:32a47594d571775689ab3054ad99d5c0288b7fba5c43019064765cdaf96acfa6",
@@ -55,10 +55,31 @@
 				"name" : "Babygnusbuino",
 				"architecture" : "avr",
 				"version" : "0.0.3",
-				"category" : "Babygnusbuino",
+				"category" : "contributed",
 				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.3.tar.gz",
 				"archiveFileName" : "babygnusbuino-0.0.3.tar.gz",
 				"checksum" : "SHA-256:ff6c7b13944345e527d7f0e832efcb7c5509e3d1904526582f5a0dfc5bb7a3bc",
+				"size" : "",
+				"help" : {
+					"online" : "https://github.com/ATtinyTeenageRiot/Babygnusbuino2"
+				},
+				"boards" : [
+										
+					{
+						"name" : "Babygnusbuino2"
+					}
+				],
+				"toolsDependencies" : [
+					
+				]
+			},			{
+				"name" : "Babygnusbuino",
+				"architecture" : "avr",
+				"version" : "0.0.4",
+				"category" : "contributed",
+				"url" : "http://attinyteenageriot.github.io/BabygnusbuinoPackage/boards/babygnusbuino-0.0.4.tar.gz",
+				"archiveFileName" : "babygnusbuino-0.0.4.tar.gz",
+				"checksum" : "SHA-256:8c929c730422fe53e572c851de60d17099a261963432eef0e77c4b4b9a202afd",
 				"size" : "",
 				"help" : {
 					"online" : "https://github.com/ATtinyTeenageRiot/Babygnusbuino2"
