@@ -1,6 +1,6 @@
-commit 586d929f94796d22449539f1052756b9185f9023
+commit 7510a4a1b56513a17c84a1f1ea8f5acf764dcac8
 Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
-Date:   Mon Dec 21 13:00:47 2015 +0700
+Date:   Mon Dec 21 13:41:24 2015 +0700
 
-    avrdude timeout counter
-0b9a747e9de839fd60e4747b00671413015839a41f9853c8e8f25ff2c3880d33
+    avrdude: fix end line bug
+a8265eeb19c891f06f47156ac5ff1946929a6e821a5d1d194f0e09f0709c3577
