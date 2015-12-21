@@ -1,6 +1,6 @@
-commit 9e25e9855dc7bdb0b2cb1e9edbdc317d1d2800cb
+commit 56c7a1c2c7570245c3b91968f8065a43fd30d663
 Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
-Date:   Mon Dec 21 11:34:54 2015 +0700
+Date:   Mon Dec 21 11:49:25 2015 +0700
 
-    update to latest avrdude
-8c929c730422fe53e572c851de60d17099a261963432eef0e77c4b4b9a202afd
+    update avrdude
+a041c738dd5e7f723549d864a0acf4a8284559e8bf9c3f4d760243b5c82bc23a
