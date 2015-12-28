@@ -1,0 +1,6 @@
+commit e49a340f2012479c0aee1a3801f93f367212bdc9
+Author: Budi Prakosa a.k.a Iyok <iyok@deadmediafm.org>
+Date:   Mon Dec 28 17:18:43 2015 +0700
+
+    revert android midi support
+4dee508aa69c9ed0c2b74a46a4595eed3254bc17d160c5ad9d05b782fb34d4f6
